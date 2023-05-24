@@ -1,0 +1,2 @@
+let e,o,l,t,D,n,A,a,x,c;var s,E;Object.defineProperty({},"__esModule",{value:!0}),e=50,o="Max",l=!0,t=null,D=void 0,n=e=>100+e,A=-20,A="Text",A={},a="Text",x="Text",c=["Max",21],(E=s||(s={}))[E.LOADING=0]="LOADING",E[E.READY=1]="READY";const O=s.READY;O===s.LOADING&&console.log("Страница загружается"),O===s.READY&&console.log("Страница загружена");new Date("2021-01-01"),new Date("2021-05-01");
+//# sourceMappingURL=index.579047da.js.map
