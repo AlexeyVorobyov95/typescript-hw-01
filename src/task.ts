@@ -1,7 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 
-
-export const TypeScripte = () => {
 let age: number;
 let userName: string;
 let toggle: boolean;
@@ -51,7 +48,6 @@ if (page.load === Load.READY) {
   console.log('Страница загружена');
 }
    
-}
 
 let union: string | number;
 let literal: 'enable' | 'disable';
@@ -97,26 +93,5 @@ const page2: PageType = {
   accounts: ['Alex'],
   status: 'close',
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
